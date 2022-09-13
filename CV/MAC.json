@@ -323,11 +323,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "GitHub para programadores",
+        "name": "GitHub for developers",
         "startDate": "2022-06-01",
         "institution": {
           "name": "LinkedIn Learning",
-          "description": "Conceptos básicos del control de versiones Git | Servicios que ofrece GitHub | Como crear, gestionar y examinar nuestros repositorios online | Descubrir diversas formas de utilizar el servicio de GitHub y exploraremos las funciones más comunes de este servicio.",
+          "description": "Git version control basics | GitHub services | How to create, manage and browse our online repositories | Discover various ways to use the GitHub service and explore the most common GitHub features.",
           "URL": "https://www.linkedin.com/learning/certificates/1a1016b7d0dfdc6f4647093ea00e6ffbc73dead83a03e9a2ec63be4272b7bc38?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
           "image": {
             "alt": "download (1).png",
