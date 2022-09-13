@@ -52,12 +52,12 @@
         },
         "roles": [
           {
-            "name": "Soporte Técnico",
+            "name": "Technical Support",
             "startDate": "2021-01-01",
             "finishDate": "2021-11-01",
             "challenges": [
               {
-                "description": "Reparación de Hardware | Reparación, optimización, configuración e instalación de software | Formateo e instalación de Sistemas Operativos | Limpieza de equipos | Testeos generales | Armado de equipos a pedido."
+                "description": "Hardware Repair | Repair, optimisation, configuration and installation of software | Formatting and installation of Operating Systems | Cleaning of equipment | General testing | Assembly of equipment on request."
               }
             ],
             "competences": [
