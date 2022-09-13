@@ -394,27 +394,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "JavaScript avanzado: Buenas práctica",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "LinkedIn Learning",
-          "description": "Las buenas prácticas son un conjunto de recomendaciones basadas en las rutinas de otros desarrolladores y gracias a ellas, tu trabajo será más comprensible, mejor organizado y tendrá un mejor rendimiento.",
-          "URL": "https://www.linkedin.com/learning/certificates/cbd83b8856e938efab820b2356fbc23df7eac51cd6ac0e5f490fa78fe573ed67?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
-          "image": {
-            "alt": "download (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/a2c2fc77-2f7f-427f-bee7-ca719b923b4e_download-(1).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "JavaScript avanzado: Expresiones regulares",
         "startDate": "2022-04-01",
         "institution": {
@@ -486,6 +465,27 @@
           },
           {
             "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Advanced JavaScript: Good practice",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Best practices are a set of recommendations based on the routines of other developers and will make your work more understandable, better organised and perform better.",
+          "URL": "https://www.linkedin.com/learning/certificates/cbd83b8856e938efab820b2356fbc23df7eac51cd6ac0e5f490fa78fe573ed67?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/a2c2fc77-2f7f-427f-bee7-ca719b923b4e_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ]
