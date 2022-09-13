@@ -251,27 +251,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Java orientado a objetos",
-        "startDate": "2022-07-01",
-        "institution": {
-          "name": "Alura LATAM",
-          "description": "Java parte 1: Primeros Pasos\nJava parte 2: Introducción Orientada a Objetos\nJava parte 3: Entendiendo herencia e interfaces\nJava parte 4: Entendiendo Excepciones\nJava y java.lang: Programe con la clase Object y String\nJava y java.util: Colecciones, Wrappers y Lambda expressions\nJava y java.io: Streams, Reader y Writers\nJava: Dominando las Collections\nJava 8: Aproveche los nuevos recursos del lenguaje\nJava y JDBC: Trabajando con una Base de Datos",
-          "URL": "https://app.aluracursos.com/degree/certificate/138c3369-6583-4c93-aed2-b54a3c9c76a2",
-          "image": {
-            "alt": "1656438194977.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/cc25fae1-c9b8-42ff-8302-5fb1c1bafa71_1656438194977.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Algoritmos y estructuras de datos de JavaScript",
         "startDate": "2022-07-01",
         "institution": {
@@ -319,6 +298,27 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/f2baaaed-d203-4bb3-8fed-6f2f0d85315c_std8evxe_400x400.jpg"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Object-oriented Java",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Java part 1: Getting Started | Java part 2: Object Oriented Introduction | Java part 3: Understanding Inheritance and Interfaces | Java part 4: Understanding Exceptions | Java and java.lang: Programming with the Object and String class | Java and java.util: Collections, Wrappers and Lambda expressions | Java and java.io: Streams, Reader and Writers | Java: Mastering Collections | Java 8: Take advantage of new language resources ",
+          "URL": "https://app.aluracursos.com/degree/certificate/138c3369-6583-4c93-aed2-b54a3c9c76a2",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/cc25fae1-c9b8-42ff-8302-5fb1c1bafa71_1656438194977.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
