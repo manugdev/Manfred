@@ -380,21 +380,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Agilidad de negocios",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "Alura LATAM",
-          "description": "Fundamentos de Agilidad: Primeros pasos para la transformación ágil | La Empresa Ágil: Introduciendo el Business Agility en las organizaciones | Gestión ágil: Liderando el cambio en un ambiente de agilidad | Organización de equipos ágiles: Las funciones existentes en un equipo",
-          "URL": "https://app.aluracursos.com/degree/certificate/0619edff-10a0-4969-b443-6c02c8394e93",
-          "image": {
-            "alt": "1656438194977.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/1da7c369-9a6a-4471-979c-cd1916d695bf_1656438194977.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Desarrollo personal",
         "startDate": "2022-04-01",
         "institution": {
@@ -489,6 +474,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Business agility",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Agile Fundamentals: First Steps to Agile Transformation | The Agile Enterprise: Introducing Business Agility into organisations | Agile Management: Leading Change in an Agile Environment | Organising Agile Teams: The existing roles in a team | The Agile Enterprise: Introducing Business Agility into organisations | Agile Management: Leading Change in an Agile Environment | Organising Agile Teams: The Existing Roles of a Team",
+          "URL": "https://app.aluracursos.com/degree/certificate/0619edff-10a0-4969-b443-6c02c8394e93",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/1da7c369-9a6a-4471-979c-cd1916d695bf_1656438194977.jpg"
+          }
+        }
       },
       {
         "studyType": "certification",
