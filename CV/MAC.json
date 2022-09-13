@@ -251,11 +251,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Algoritmos y estructuras de datos de JavaScript",
+        "name": "SCRUM",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Bases de la filosofía SCRUM, sus roles, herramientas e implementación | Fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo | Qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/certificates/6085b8866cdea26c496e24ce4c49e434921e1307e1b9475984396fd29777c056?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "unnamed.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/11eeac95-2be5-47b4-9f37-135feb3e96c1_unnamed.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algorithms and Data Structures",
         "startDate": "2022-07-01",
         "institution": {
           "name": "freeCodeCamp",
-          "description": "JavaScript básico | ES6 | Expresiones regulares | Depuración | Estructuras de datos básicas | Programación de algoritmos básicos | Programación orientada a objetos | Programación funcional | Programación de algoritmos intermedios | Algoritmos de JavaScript y proyectos de estructuras de datos.",
+          "description": "Basic JavaScript | ES6 | Regular Expressions | Debugging | Basic Data Structures | Basic Algorithm Programming | Object Oriented Programming | Functional Programming | Intermediate Algorithm Programming | JavaScript Algorithm and Data Structure Projects.",
           "URL": "https://www.freecodecamp.org/certification/fcc04054754-9746-4d14-9ad5-9448d7274906/javascript-algorithms-and-data-structures",
           "image": {
             "alt": "unnamed.png",
@@ -268,21 +283,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "SCRUM",
-        "startDate": "2022-07-01",
-        "institution": {
-          "name": "LinkedIn Learning",
-          "description": "Bases de la filosofía SCRUM, sus roles, herramientas e implementación | Fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo | Qué es y cómo incorporar SCRUM a tus proyectos.",
-          "URL": "https://www.linkedin.com/learning/certificates/6085b8866cdea26c496e24ce4c49e434921e1307e1b9475984396fd29777c056?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
-          "image": {
-            "alt": "unnamed.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/11eeac95-2be5-47b4-9f37-135feb3e96c1_unnamed.png"
-          }
-        }
       },
       {
         "studyType": "certification",
