@@ -112,12 +112,12 @@
         },
         "roles": [
           {
-            "name": "Administración ",
+            "name": "Administration ",
             "startDate": "2018-06-01",
             "finishDate": "2019-12-01",
             "challenges": [
               {
-                "description": "Actividades administrativas generales | Carga de material en el sistema | Auditorias | Control de egresos e ingresos de papel e ingreso de la mercadería en general | Carga de Facturas y Ordenes de compra."
+                "description": "General administrative activities | Loading of material into the system | Audits | Control of paper receipts and disbursements and receipt of goods in general | Loading of invoices and purchase orders."
               }
             ],
             "competences": [
