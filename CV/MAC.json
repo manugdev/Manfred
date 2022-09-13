@@ -394,26 +394,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "JavaScript avanzado: Expresiones regulares",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "LinkedIn Learning",
-          "URL": "https://www.linkedin.com/learning/certificates/8e83a019b50e0b63728c3a72eb66f8fbf5934c52cb110436de69bf6502044827?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
-          "image": {
-            "alt": "download (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/5ad34f03-1b23-487a-86ab-dba5d778fdfb_download-(1).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Business agility",
         "startDate": "2022-04-01",
         "institution": {
@@ -481,6 +461,26 @@
           "image": {
             "alt": "download (1).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/a2c2fc77-2f7f-427f-bee7-ca719b923b4e_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Advanced JavaScript: Regular Expressions",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "URL": "https://www.linkedin.com/learning/certificates/8e83a019b50e0b63728c3a72eb66f8fbf5934c52cb110436de69bf6502044827?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/5ad34f03-1b23-487a-86ab-dba5d778fdfb_download-(1).png"
           }
         },
         "linkedCompetences": [
