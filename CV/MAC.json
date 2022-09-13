@@ -96,6 +96,14 @@
               {
                 "name": "Autocad",
                 "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
               }
             ]
           }
