@@ -344,11 +344,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "MySQL esencial",
+        "name": "MySQL essential",
         "startDate": "2022-06-01",
         "institution": {
           "name": "LinkedIn Learning",
-          "description": "Amplía y expande tus conocimientos sobre MySQL paso a paso y de forma práctica y sencilla. Domina las herramientas necesarias para el diseño, la construcción y la manipulación de base de datos.",
+          "description": "Expand and expand your knowledge of MySQL in a step-by-step, practical and easy-to-use way. Master the tools necessary for database design, construction and manipulation.",
           "URL": "https://www.linkedin.com/learning/certificates/5608de3eada2cdb3f0e640bee06ee48d90709ba2193fec3a8f0bdf5c08e09850?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
           "image": {
             "alt": "download (1).png",
