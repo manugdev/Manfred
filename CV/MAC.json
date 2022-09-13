@@ -9,7 +9,7 @@
       "name": "Manuel",
       "surnames": "Garcia",
       "title": "Desarrollador Frontend",
-      "description": "¡Hola! 🖐🏻 Soy Manuel García, Desarrollador FrontEnd 👨‍💻 en busca de empleo y desarrollo profesional. Preparado para utilizar mis habilidades informáticas y pasión por la tecnología para impulsar la misión de una compañía. Ofrezco mi experiencia con varios lenguajes de programación, frameworks, metodologías ágiles y habilidades blandas. Aporto una actitud positiva, y la voluntad y motivación para aprender.",
+      "description": "Hello! 🖐🏻 I'm Manuel Garcia, FrontEnd Developer 👨‍💻 looking for a job and professional development. Ready to use my IT skills and passion for technology to further a company's mission. I offer my experience with various programming languages, frameworks, agile methodologies and soft skills. I bring a positive attitude, and the willingness and motivation to learn.",
       "avatar": {
         "alt": "Perfil.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/e1acfe9a-f16a-408e-8b96-e7ba21c5fc59_perfil.png"
@@ -152,6 +152,9 @@
     "languages": [
       {
         "name": "English"
+      },
+      {
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
