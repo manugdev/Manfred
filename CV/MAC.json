@@ -380,21 +380,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Desarrollo personal",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "Alura LATAM",
-          "description": "Foco: Enfocarse trae más resultados para el día a día | Hábitos: Ser productivo para cumplir sus metas personales | Productividad parte 1: Estrategias para actividades diarias | Hábitos de liderazgo: Buenas prácticas | LinkedIn: Como hacer que tu perfil trabaje por ti\n",
-          "URL": "https://app.aluracursos.com/degree/certificate/41a56a44-d8eb-423b-bd8f-4725fc0287e3",
-          "image": {
-            "alt": "1656438194977.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/4f57547e-b25e-4201-a560-5427995103c5_1656438194977.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "HTML y CSS",
         "startDate": "2022-04-01",
         "institution": {
@@ -487,6 +472,21 @@
           "image": {
             "alt": "1656438194977.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/1da7c369-9a6a-4471-979c-cd1916d695bf_1656438194977.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Personal development",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Focus: Focusing brings more results for everyday life | Habits: Being productive to meet your personal goals | Productivity part 1: Strategies for daily activities | Leadership habits: Best practices | LinkedIn: How to make your profile work for you | LinkedIn: How to make your profile work for you | LinkedIn: How to make your profile work for you\n",
+          "URL": "https://app.aluracursos.com/degree/certificate/41a56a44-d8eb-423b-bd8f-4725fc0287e3",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/4f57547e-b25e-4201-a560-5427995103c5_1656438194977.jpg"
           }
         }
       },
