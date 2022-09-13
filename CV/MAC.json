@@ -1,0 +1,632 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Manuel",
+      "surnames": "Garcia",
+      "title": "Desarrollador Frontend",
+      "description": "¡Hola! 🖐🏻 Soy Manuel García, Desarrollador FrontEnd 👨‍💻 en busca de empleo y desarrollo profesional. Preparado para utilizar mis habilidades informáticas y pasión por la tecnología para impulsar la misión de una compañía. Ofrezco mi experiencia con varios lenguajes de programación, frameworks, metodologías ágiles y habilidades blandas. Aporto una actitud positiva, y la voluntad y motivación para aprender.",
+      "avatar": {
+        "alt": "Perfil.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/e1acfe9a-f16a-408e-8b96-e7ba21c5fc59_perfil.png"
+      },
+      "location": {
+        "country": "Argentina",
+        "region": "Buenos Aires",
+        "municipality": "Buenos Aires"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/manugdev"
+      },
+      {
+        "type": "other",
+        "URL": "https://manugdev.github.io/Portfolio/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/manugdev"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/manugdev/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "FIX MFG",
+          "image": {
+            "alt": "MFG.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/35a6764a-ae4a-4700-be74-3555c5485355_mfg.png"
+          },
+          "URL": "https://www.instagram.com/fixmfg_/?hl=es-la"
+        },
+        "roles": [
+          {
+            "name": "Soporte Técnico",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Reparación de Hardware | Reparación, optimización, configuración e instalación de software | Formateo e instalación de Sistemas Operativos | Limpieza de equipos | Testeos generales | Armado de equipos a pedido."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VI Cortantes",
+          "image": {
+            "alt": "36314169_2119081934995293_3418966822869794816_n.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/40bbe6bb-445d-4b0c-a686-0cbbc37aa9cd_36314169_21190819349.jpg"
+          },
+          "URL": "https://www.instagram.com/vi.cortantes/?hl=es-la"
+        },
+        "roles": [
+          {
+            "name": "Técnico electromecánico",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Encargado de producción | Compilación de modelos en tandas para impresión (Software Cura) | Carga de tandas en impresoras 3D | Reparación de impresoras 3D | Armado de pedidos | Carga y descarga de materiales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arcángel Maggio",
+          "image": {
+            "alt": "1541174297469.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/9f59fc03-d938-4245-ab60-8f542905bb83_1541174297469.jpg"
+          },
+          "URL": "https://www.arcangelmaggio.com/"
+        },
+        "roles": [
+          {
+            "name": "Administración ",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "Actividades administrativas generales | Carga de material en el sistema | Auditorias | Control de egresos e ingresos de papel e ingreso de la mercadería en general | Carga de Facturas y Ordenes de compra."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Farmacia Monges"
+        },
+        "roles": [
+          {
+            "name": " Auxiliar de farmacia",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Apertura de la farmacia | Apertura y cierre de caja | Atención al cliente | Pedidos a droguerías | Recepción y orden de los mismos | Limpieza | Aplicación de inyecciones | Composición y envasado de preparados farmacéuticos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Licenciatura en Informática",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Universidad Siglo 21",
+          "URL": "https://www.21.edu.ar/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/353f092d-2639-4da6-af0f-9c9acb319c35_download.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java orientado a objetos",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Java parte 1: Primeros Pasos\nJava parte 2: Introducción Orientada a Objetos\nJava parte 3: Entendiendo herencia e interfaces\nJava parte 4: Entendiendo Excepciones\nJava y java.lang: Programe con la clase Object y String\nJava y java.util: Colecciones, Wrappers y Lambda expressions\nJava y java.io: Streams, Reader y Writers\nJava: Dominando las Collections\nJava 8: Aproveche los nuevos recursos del lenguaje\nJava y JDBC: Trabajando con una Base de Datos",
+          "URL": "https://app.aluracursos.com/degree/certificate/138c3369-6583-4c93-aed2-b54a3c9c76a2",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/cc25fae1-c9b8-42ff-8302-5fb1c1bafa71_1656438194977.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Algoritmos y estructuras de datos de JavaScript",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "description": "JavaScript básico | ES6 | Expresiones regulares | Depuración | Estructuras de datos básicas | Programación de algoritmos básicos | Programación orientada a objetos | Programación funcional | Programación de algoritmos intermedios | Algoritmos de JavaScript y proyectos de estructuras de datos.",
+          "URL": "https://www.freecodecamp.org/certification/fcc04054754-9746-4d14-9ad5-9448d7274906/javascript-algorithms-and-data-structures",
+          "image": {
+            "alt": "unnamed.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/d5c4799b-fcc2-49ad-9d96-1a807eaa01cf_unnamed.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "SCRUM",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Bases de la filosofía SCRUM, sus roles, herramientas e implementación | Fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo | Qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/certificates/6085b8866cdea26c496e24ce4c49e434921e1307e1b9475984396fd29777c056?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "unnamed.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/11eeac95-2be5-47b4-9f37-135feb3e96c1_unnamed.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "English level",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "EF SET",
+          "description": "The achieved English level is 59/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR). The EF SET score is calculated as an average of the reading and listening scores.",
+          "URL": "https://efset.org/cert/Gd5d2j",
+          "image": {
+            "alt": "std8EVXe_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/f2baaaed-d203-4bb3-8fed-6f2f0d85315c_std8evxe_400x400.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "GitHub para programadores",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Conceptos básicos del control de versiones Git | Servicios que ofrece GitHub | Como crear, gestionar y examinar nuestros repositorios online | Descubrir diversas formas de utilizar el servicio de GitHub y exploraremos las funciones más comunes de este servicio.",
+          "URL": "https://www.linkedin.com/learning/certificates/1a1016b7d0dfdc6f4647093ea00e6ffbc73dead83a03e9a2ec63be4272b7bc38?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/5492e32e-65d8-42b6-99a2-06b4326e349a_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MySQL esencial",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Amplía y expande tus conocimientos sobre MySQL paso a paso y de forma práctica y sencilla. Domina las herramientas necesarias para el diseño, la construcción y la manipulación de base de datos.",
+          "URL": "https://www.linkedin.com/learning/certificates/5608de3eada2cdb3f0e640bee06ee48d90709ba2193fec3a8f0bdf5c08e09850?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/e0e5c3e4-e0e3-4e56-8028-3d52c4791446_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MySQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Emprendimiento",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Lean Startup: Método eficaz para convertir una idea de negocio en empresa | Emprendimiento: De la idea al plan de negocios | Ciclo de vida del producto: Proyectos y procesos del mercado | Pitch para entrevistas: Haga presentaciones impactantes | Business Model Canvas parte I: Un modelo poderoso para tu negocio | Business Model Canvas parte II: Avanzando con tu modelo de negocios",
+          "URL": "https://app.aluracursos.com/degree/certificate/6cd4a75c-5531-441c-9f5d-1f4408e13e5c",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/6fd12d6c-99bd-4ab6-abe9-6a67288debf7_1656438194977.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Agilidad de negocios",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Fundamentos de Agilidad: Primeros pasos para la transformación ágil | La Empresa Ágil: Introduciendo el Business Agility en las organizaciones | Gestión ágil: Liderando el cambio en un ambiente de agilidad | Organización de equipos ágiles: Las funciones existentes en un equipo",
+          "URL": "https://app.aluracursos.com/degree/certificate/0619edff-10a0-4969-b443-6c02c8394e93",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/1da7c369-9a6a-4471-979c-cd1916d695bf_1656438194977.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollo personal",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Foco: Enfocarse trae más resultados para el día a día | Hábitos: Ser productivo para cumplir sus metas personales | Productividad parte 1: Estrategias para actividades diarias | Hábitos de liderazgo: Buenas prácticas | LinkedIn: Como hacer que tu perfil trabaje por ti\n",
+          "URL": "https://app.aluracursos.com/degree/certificate/41a56a44-d8eb-423b-bd8f-4725fc0287e3",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/4f57547e-b25e-4201-a560-5427995103c5_1656438194977.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "HTML y CSS",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "URL": "https://community.open-bootcamp.com/user/manugdev/certificaciones/05379b18-09eb-426c-8771-37921320d753",
+          "image": {
+            "alt": "HQy3tFfX_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/585cb921-9d31-42e8-800b-550d9732d1a9_hqy3tffx_400x400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introducción a la programación",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "URL": "https://community.open-bootcamp.com/user/manugdev/certificaciones/51af8a84-6ee8-4fdd-8c15-f4db29c58950",
+          "image": {
+            "alt": "HQy3tFfX_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/ca4e2a54-3023-4fcd-808a-953c4cc1c31e_hqy3tffx_400x400.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript avanzado: Buenas práctica",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Las buenas prácticas son un conjunto de recomendaciones basadas en las rutinas de otros desarrolladores y gracias a ellas, tu trabajo será más comprensible, mejor organizado y tendrá un mejor rendimiento.",
+          "URL": "https://www.linkedin.com/learning/certificates/cbd83b8856e938efab820b2356fbc23df7eac51cd6ac0e5f490fa78fe573ed67?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/a2c2fc77-2f7f-427f-bee7-ca719b923b4e_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript avanzado: Expresiones regulares",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "URL": "https://www.linkedin.com/learning/certificates/8e83a019b50e0b63728c3a72eb66f8fbf5934c52cb110436de69bf6502044827?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/5ad34f03-1b23-487a-86ab-dba5d778fdfb_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Frontend Developer",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "HTML5 y CSS3 parte 1: Mi primera página web | HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación | HTML5 y CSS3 parte 3: Trabajando con formularios y tablas | HTML5 y CSS3 parte 4: Avanzando en CSS | Accesibilidad Web: introducción al diseño inclusivo | JavaScript: Primeros pasos con el lenguaje | JavaScript: Introducción a la Orientación a Objetos | JavaScript: Herencia e Interfaces en Orientación a Objetos | Flexbox: Posicione elementos en la pantalla\nCSS Grid: Simplificando layouts | Layouts Responsivos: Trabajando con layouts mobile | Arquitectura CSS: Descomplicando los problemas | JS en la Web: Manipulación del DOM con JavaScript | JS en la Web: Almacenando datos en el navegador\n",
+          "URL": "https://app.aluracursos.com/degree/certificate/90fe0e43-58a8-451a-81d5-00b2af9da60b",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/bc14efe0-45ce-4ef5-9b49-20f52fd01666_1656438194977.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Principiante en programación",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "description": "Lógica de programación parte 1: Primeros pasos | Lógica de programación parte 2: Conceptos primordiales | Lógica de programación parte 3: Practicando con juegos y animaciones | HTML5 y CSS3 parte 1: Mi primera página web | HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación | HTML5 y CSS3 parte 3: Trabajando con formularios y tablas | HTML5 y CSS3 parte 4: Avanzando en CSS | JavaScript: Introducción al lenguaje de la web | JavaScript: Consolide sus conocimientos en el lenguaje de la web | Git y GitHub: controle y comparta su código",
+          "URL": "https://app.aluracursos.com/degree/certificate/97026612-0b22-44a7-980b-9ff95d186b72",
+          "image": {
+            "alt": "1656438194977.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/aa99de97-9127-4185-9578-8743e00af63b_1656438194977.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollador Web",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-479b24c6-0da4-402a-b591-84347c7ce2e6/",
+          "image": {
+            "alt": "unnamed (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/d9daa676-4667-4f11-9d5a-5fb6ca0c47e7_unnamed-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/manugdev/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sass",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
