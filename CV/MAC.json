@@ -84,12 +84,12 @@
         },
         "roles": [
           {
-            "name": "Técnico electromecánico",
+            "name": "Electromechanical technician",
             "startDate": "2020-06-01",
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "Encargado de producción | Compilación de modelos en tandas para impresión (Software Cura) | Carga de tandas en impresoras 3D | Reparación de impresoras 3D | Armado de pedidos | Carga y descarga de materiales."
+                "description": "Production manager | Compiling models into batches for printing (Cura Software) | Loading batches into 3D printers | Repairing 3D printers | Assembling orders | Loading and unloading materials."
               }
             ],
             "competences": [
