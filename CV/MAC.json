@@ -251,21 +251,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "SCRUM",
-        "startDate": "2022-07-01",
-        "institution": {
-          "name": "LinkedIn Learning",
-          "description": "Basics of the SCRUM philosophy, its roles, tools and implementation | Main fundamentals to start organising your projects reducing unnecessary work and substantially increasing the motivation and productivity of your teammates | What is SCRUM and how to incorporate it into your projects.",
-          "URL": "https://www.linkedin.com/learning/certificates/6085b8866cdea26c496e24ce4c49e434921e1307e1b9475984396fd29777c056?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
-          "image": {
-            "alt": "unnamed.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/11eeac95-2be5-47b4-9f37-135feb3e96c1_unnamed.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "JavaScript Algorithms and Data Structures",
         "startDate": "2022-07-01",
         "institution": {
@@ -319,6 +304,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "SCRUM",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "Basics of the SCRUM philosophy, its roles, tools and implementation | Main fundamentals to start organising your projects reducing unnecessary work and substantially increasing the motivation and productivity of your teammates | What is SCRUM and how to incorporate it into your projects.",
+          "URL": "https://www.linkedin.com/learning/certificates/6085b8866cdea26c496e24ce4c49e434921e1307e1b9475984396fd29777c056?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Y0UIuLwSBGjVcwm0Hh23g%3D%3D",
+          "image": {
+            "alt": "1612473028270.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/d504b79d-0781-413c-8104-9a6cc7955bde_1612473028270.jpg"
+          }
+        }
       },
       {
         "studyType": "certification",
