@@ -9,15 +9,15 @@
       "name": "Manuel",
       "surnames": "Garcia",
       "title": "Frontend Developer",
-      "description": "Hello! 🖐🏻 I'm Manuel Garcia, FrontEnd Developer 👨‍💻 looking for a job and professional development. Ready to use my IT skills and passion for technology to further a company's mission. I offer my experience with various programming languages, frameworks, agile methodologies and soft skills. I bring a positive attitude, and the willingness and motivation to learn.",
+      "description": "Frontend developer with one year of experience in personal projects, looking for employment and professional development. Ready to use my skills and passion for technology to further a company's mission. I offer my experience with multiple programming languages, frameworks, problem solving and agile methodologies. I am very enthusiastic and motivated to learn.",
       "avatar": {
         "alt": "Perfil.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/e1acfe9a-f16a-408e-8b96-e7ba21c5fc59_perfil.png"
       },
       "location": {
         "country": "Argentina",
-        "region": "Buenos Aires",
-        "municipality": "Buenos Aires"
+        "region": "Provincia de Buenos Aires",
+        "municipality": "Quilmes"
       }
     },
     "relevantLinks": [
