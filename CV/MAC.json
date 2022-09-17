@@ -220,7 +220,11 @@
         "details": {
           "name": "Recipe app",
           "description": "Made in JavaScript, HTML and CSS. Uses the Api \"The meal db\". It has the possibility to search for different recipes, see the ingredients, the preparation, add them to favourites (they are saved in the Local Storage) and, finally, dark mode.",
-          "URL": "https://recipe-app-manugdev.netlify.app/"
+          "URL": "https://recipe-app-manugdev.netlify.app/",
+          "image": {
+            "alt": "RecipeApp.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/656b0512-de63-44d4-b280-c07da446fcf0_recipeapp.png"
+          }
         },
         "type": "sideProject",
         "roles": [
