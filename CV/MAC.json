@@ -244,6 +244,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Weather app",
+          "description": "Made in JavaScript, HTML and CSS. It uses the API \"Open weather map\". It has a geolocation option and has icons that change depending on the temperature.",
+          "URL": "https://weatherappmg.netlify.app/",
+          "image": {
+            "alt": "WeatherApp.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/d49cac40-dc11-466a-a9d4-4cacc59d0f4b_weatherapp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
