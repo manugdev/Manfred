@@ -368,7 +368,8 @@
         "name": "Degree in Computer Science",
         "startDate": "2022-08-01",
         "institution": {
-          "name": "Universidad Siglo 21",
+          "name": "21st Century Business University",
+          "description": "First year in progress.\n",
           "URL": "https://www.21.edu.ar/",
           "image": {
             "alt": "download.png",
