@@ -254,7 +254,7 @@
       {
         "details": {
           "name": "Weather app",
-          "description": "Made in JavaScript, HTML and CSS. It uses the API \"Open weather map\". It has a geolocation option and has icons that change depending on the temperature.",
+          "description": "Made in JavaScript, HTML and CSS. In this app, they can get the weather details of a particular city by entering the name. They can also get weather details for their current location by clicking the button. They will get many weather details including temperature in Celsius, weather conditions, location, feel and humidity.",
           "URL": "https://weatherappmg.netlify.app/",
           "image": {
             "alt": "WeatherApp.png",
