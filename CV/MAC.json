@@ -159,7 +159,8 @@
       {
         "details": {
           "name": "Netflix clone",
-          "description": "Made in Vite as development environment, React, Axios for API requests to \"The Movie Database\", Firebase for backend and authentication, react-router-dom for routing, react-icons for icons and Tailwind for styling.",
+          "description": "SPA made in Vite development environment with React y Tailwind, using dependencies like Axios for “The Movie Database” API requests, Firebase for authentication and database, react-router-dom for routing, react-icons for icons and Standard as linter.",
+          "URL": "https://netflix-clone-manugdev-1a07e.web.app/",
           "image": {
             "alt": "macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923 (1).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/f0bdd782-fb90-40b5-9253-661163d4f7d7_macbook-pro-mockup-w.png"
@@ -169,7 +170,8 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-09-01",
+            "startDate": "2022-08-01",
+            "finishDate": "2022-09-01",
             "competences": [
               {
                 "name": "API",
