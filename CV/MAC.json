@@ -9,7 +9,7 @@
       "name": "Manuel",
       "surnames": "Garcia",
       "title": "Frontend Developer",
-      "description": "Frontend developer with one year of experience in personal projects, looking for employment and professional development. Ready to use my skills and passion for technology to further a company's mission. I offer my experience with multiple programming languages, frameworks, problem solving and agile methodologies. I am very enthusiastic and motivated to learn.",
+      "description": "Detail oriented, with experience in web page development and single-page application. I am fluent in several languages and frameworks. Specialist in solving problems and working in a team. I am looking for a position in my area that allows me to improve myself as a professional and demonstrate my skills. I bring a positive attitude, and the will and motivation to learn.",
       "avatar": {
         "alt": "Perfil.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/e1acfe9a-f16a-408e-8b96-e7ba21c5fc59_perfil.png"
@@ -27,7 +27,7 @@
       },
       {
         "type": "other",
-        "URL": "https://manugdev.github.io/Portfolio/"
+        "URL": "https://manugdev.vercel.app/"
       },
       {
         "type": "twitter",
@@ -509,20 +509,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Introduction to programming",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "OpenBootcamp",
-          "URL": "https://community.open-bootcamp.com/user/manugdev/certificaciones/51af8a84-6ee8-4fdd-8c15-f4db29c58950",
-          "image": {
-            "alt": "HQy3tFfX_400x400.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/ca4e2a54-3023-4fcd-808a-953c4cc1c31e_hqy3tffx_400x400.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Business agility",
         "startDate": "2022-04-01",
         "institution": {
@@ -577,6 +563,20 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introduction to programming",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "URL": "https://community.open-bootcamp.com/user/manugdev/certificaciones/51af8a84-6ee8-4fdd-8c15-f4db29c58950",
+          "image": {
+            "alt": "HQy3tFfX_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/ca4e2a54-3023-4fcd-808a-953c4cc1c31e_hqy3tffx_400x400.png"
+          }
+        }
       },
       {
         "studyType": "certification",
