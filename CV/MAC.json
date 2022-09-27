@@ -192,7 +192,7 @@
       {
         "details": {
           "name": "Portfolio",
-          "description": "Made in Vite development environment, with React and Tailwind. Dependencies are standard (linter), react-scroll (navigation), react-icons (icons), sweetalert2 (alerts) and getform.io (form endpoint).",
+          "description": "Made in the Vite development environment with React and Tailwind, using dependencies as Standard like linter, react-scroll for navigation, react-icons for icons, sweetalert2 for alerts and getform.io for the form endpoint.",
           "URL": "https://manugdev.vercel.app/",
           "image": {
             "alt": "macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923 (2) (1).png",
