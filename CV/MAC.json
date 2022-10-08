@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Provincia de Buenos Aires",
-        "municipality": "Quilmes",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Quilmes"
       }
     },
     "relevantLinks": [
@@ -85,12 +84,12 @@
         },
         "roles": [
           {
-            "name": "Electromechanical technician",
+            "name": "Production manager",
             "startDate": "2020-06-01",
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "-Production manager.\n-Organization with Trello.\n-Compilation of models for printing with Cura Software.\n-Load batches in 3D printers.\n-Repair of 3D printers\n-Arming of orders.\n-Loading and unloading of materials."
+                "description": "- Evaluation of production levels, quality standards and maintenance actions to identify and address operational problems.\n- Detection and resolution of incidents according to established protocols.\n- Management, supervision and planning of the tasks performed by the work team.\n- Use of Ultimaker Cura software and Trello management tool."
               }
             ],
             "competences": [
