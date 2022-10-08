@@ -119,12 +119,12 @@
         },
         "roles": [
           {
-            "name": "Administration ",
+            "name": "Management",
             "startDate": "2018-06-01",
             "finishDate": "2019-12-01",
             "challenges": [
               {
-                "description": "-General administrative activities.\n-Loading material in the system.\n-Control of expenses and income of paper and income of merchandise in general using BAS.\n-Audits and stock control with Sysprint."
+                "description": "- Classification, registration and archiving of communications and documents respecting the parameters established by the company.\n- Collaboration with other departments for effective problem solving.\n- Participation in meetings and client visits when necessary.\n- Organization of physical and digital documents for easy access and updating.\n- Use of BAS, Sysprint and Office pack software."
               }
             ],
             "competences": [
