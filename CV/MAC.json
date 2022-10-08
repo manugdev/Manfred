@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Manuel",
       "surnames": "Garcia",
-      "title": "Frontend Developer",
+      "title": "Front end Developer",
       "description": "Detail oriented, with experience in web page development and single-page application. I am fluent in several languages and frameworks. Specialist in solving problems and working in a team. I am looking for a position in my area that allows me to improve myself as a professional and demonstrate my skills. I bring a positive attitude, and the will and motivation to learn.",
       "avatar": {
         "alt": "Perfil.png",
@@ -17,7 +17,8 @@
       "location": {
         "country": "Argentina",
         "region": "Provincia de Buenos Aires",
-        "municipality": "Quilmes"
+        "municipality": "Quilmes",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -792,6 +793,9 @@
           "name": "Tailwind",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     }
   }
