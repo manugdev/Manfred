@@ -54,10 +54,9 @@
           {
             "name": "Technical Support",
             "startDate": "2021-01-01",
-            "finishDate": "2021-11-01",
             "challenges": [
               {
-                "description": "-Hardware repair.\n-Repair, optimization, configuration and installation of software.\n-Formatting and installation of Operating Systems.\n-Cleaning equipment.\n-General tests.\n-Assembled equipment upon request."
+                "description": "- Installation and update of hardware, software and security patches.\n- Assistance to users on the use of systems and devices.\n- Performance and reliability monitoring of systems.\n- Diagnosis and elimination of hardware and software failures."
               }
             ],
             "competences": [
