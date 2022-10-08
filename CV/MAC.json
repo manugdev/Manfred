@@ -142,12 +142,12 @@
         },
         "roles": [
           {
-            "name": " Auxiliar de farmacia",
+            "name": "Pharmaceutical Assistant",
             "startDate": "2016-04-01",
             "finishDate": "2017-07-01",
             "challenges": [
               {
-                "description": "-Opening of the pharmacy. Opening and closing of cash register.\n-Customer Support.\n-Orders to drugstores.\n-Composition and packaging of pharmaceutical preparations."
+                "description": "- Verification of detailed patient and medication information on the prescription.\n- Stock control, inventory updating and ordering.\n- Opening and closing of the pharmacy.\n- Customer service by providing quality service at all times."
               }
             ]
           }
