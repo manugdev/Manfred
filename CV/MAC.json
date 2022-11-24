@@ -43,6 +43,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "Stämm Biotech ",
+          "image": {
+            "alt": "1640116174137.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/1e78671c-b70b-4c43-938f-26e90e5fc0ce_1640116174137.jpeg"
+          },
+          "URL": "https://www.stamm.bio/es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Develooper",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "FIX MFG",
           "image": {
             "alt": "MFG.png",
