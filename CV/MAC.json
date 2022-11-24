@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Manuel",
       "surnames": "Garcia",
       "title": "Front end Developer",
-      "description": "FrontEnd Developer with experience in web development and single-page applications. I am fluent in several languages and frameworks. I am characterized by my ability to work in a team and my enthusiasm to learn and develop my skills. I am looking for a job opportunity in which I can improve myself as a professional.",
+      "description": "FrontEnd Developer with experience in web development and single-page applications. I am fluent in several languages and frameworks. I am characterized by my ability to work in a team and my enthusiasm to learn and develop my skills. ",
       "avatar": {
         "alt": "profile-sinfondo (1).png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/08/bf21507d-8227-48cc-b304-d6b04682b336_profile-sinfondo-(1).png"
@@ -17,7 +17,8 @@
       "location": {
         "country": "Argentina",
         "region": "Provincia de Buenos Aires",
-        "municipality": "Quilmes"
+        "municipality": "Quilmes",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -330,10 +331,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -837,6 +840,7 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
